@@ -1,0 +1,31 @@
+.car-1{
+    background-color:gray!important;
+}
+.car-2{
+    background-color:#FEEAE9;
+    color:rgb(71, 71, 71)!important;
+}
+.car-3{
+    background-color:rgba(35, 119, 115, 0.7)
+}
+.panda-card{
+    border:0;
+}
+.minimal-gutter1{
+    background-color:rgba(79, 46, 104, 0.7)!important;
+}
+.minimal-gutter2{
+    background-color: rgba(210, 78, 89, 0.7)!important;
+}
+.minimal-gutter3{
+    background-color:rgba(165, 37, 122, 0.486)!important;
+}
+.less-height{
+    height:150px;
+}
+.footer-back{
+    background-color:white;
+}
+.categories img{
+    width:120px;
+}
