@@ -1,12 +1,15 @@
 .car-1{
     background-color:gray!important;
+    border-radius:20px;
 }
 .car-2{
     background-color:#FEEAE9;
     color:rgb(71, 71, 71)!important;
+    border-radius:20px;
 }
 .car-3{
-    background-color:rgba(35, 119, 115, 0.7)
+    background-color:rgba(35, 119, 115, 0.7);
+    border-radius:20px;
 }
 .panda-card{
     border:0;
@@ -28,4 +31,7 @@
 }
 .categories img{
     width:120px;
+}
+.m-rounded{
+    border-radius:20px;
 }
